@@ -1,3 +1,5 @@
+package Utils;
+
 public class ShortStringException extends Exception {
 
     public ShortStringException() {
